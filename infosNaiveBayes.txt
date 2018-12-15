@@ -1,0 +1,4 @@
+quantidade
+pele: 3441.0
+Não pele: 4113.0quantidade
+pele: None
